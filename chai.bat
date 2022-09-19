@@ -1,10 +1,12 @@
+chcp 65001
+
 echo "------- CheeseburgerIM -------"
 
 echo %date%
 
-tree /f > TREE.md
-dir > DIR.md
-dir > DIR.md
+tree /f > _TREE.txt
+dir > _DIR.txt
+dir > _DIR.txt
 
 git add .
 git commit -m "%date%"

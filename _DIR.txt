@@ -1,0 +1,16 @@
+ Volume in drive D is Data
+ Volume Serial Number is 52C3-E4C4
+
+ Directory of D:\Gitee\Chai_Gallery
+
+2022/09/19  16:26    <DIR>          .
+2022/09/19  15:02    <DIR>          ..
+2022/09/19  16:28               232 chai.bat
+2022/07/25  10:41    <DIR>          Front-End
+2022/07/25  10:41            20,506 index.html
+2022/07/25  10:41               177 pyz.sh
+2022/09/19  15:58                16 README.md
+2022/09/19  16:29                 0 _DIR.txt
+2022/09/19  16:29             5,962 _TREE.txt
+               6 File(s)         26,893 bytes
+               3 Dir(s)  226,260,156,416 bytes free
