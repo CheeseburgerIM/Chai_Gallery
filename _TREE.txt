@@ -11,6 +11,7 @@ D:.
 ©¸©¤©¤©¤Front-End
     ©À©¤©¤©¤Static
     ©¦   ©¦   404_GIF.gif
+    ©¦   ©¦   apple-touch-icon.png
     ©¦   ©¦   avatar_gif.gif
     ©¦   ©¦   burgers.svg
     ©¦   ©¦   rainbow_circle.webp
