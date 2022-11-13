@@ -2,6 +2,7 @@ Folder PATH listing for volume Data
 Volume serial number is 52C3-E4C4
 D:.
 ©¦   chai.bat
+©¦   CNAME
 ©¦   index.html
 ©¦   pyz.sh
 ©¦   README.md
